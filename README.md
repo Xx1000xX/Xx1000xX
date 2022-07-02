@@ -18,5 +18,6 @@
 - :telescope: Currently coding EvilShield, the best solution against cheaters.
 - 🛡️ EvilShiel: https://evilshield.com
 - 📒 Discord: x.1000#1354
+- ❤️ Love for reverse engineering
 
 <a href="https://www.evilshield.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Xx1000xX&show_icons=true&theme=dark" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xx1000xX&layout=compact&show_icons=true&theme=dark" /></a>
