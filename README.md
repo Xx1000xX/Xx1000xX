@@ -15,7 +15,6 @@
 
 ### FiveM
 
-- :telescope: Currently coding EvilShield, the best solution against cheaters.
 - 🛡️ Legacy
 - 📒 Discord: x.1000#1354
 - ❤️ Love for reverse engineering
